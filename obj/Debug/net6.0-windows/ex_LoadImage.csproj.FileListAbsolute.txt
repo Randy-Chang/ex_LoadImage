@@ -1,0 +1,17 @@
+C:\Users\gdba5\OneDrive\桌面\ex_LoadImage\bin\Debug\net6.0-windows\ex_LoadImage.exe
+C:\Users\gdba5\OneDrive\桌面\ex_LoadImage\bin\Debug\net6.0-windows\ex_LoadImage.deps.json
+C:\Users\gdba5\OneDrive\桌面\ex_LoadImage\bin\Debug\net6.0-windows\ex_LoadImage.runtimeconfig.json
+C:\Users\gdba5\OneDrive\桌面\ex_LoadImage\bin\Debug\net6.0-windows\ex_LoadImage.dll
+C:\Users\gdba5\OneDrive\桌面\ex_LoadImage\bin\Debug\net6.0-windows\ex_LoadImage.pdb
+C:\Users\gdba5\OneDrive\桌面\ex_LoadImage\obj\Debug\net6.0-windows\ex_LoadImage.csproj.AssemblyReference.cache
+C:\Users\gdba5\OneDrive\桌面\ex_LoadImage\obj\Debug\net6.0-windows\ex_LoadImage.Form1.resources
+C:\Users\gdba5\OneDrive\桌面\ex_LoadImage\obj\Debug\net6.0-windows\ex_LoadImage.csproj.GenerateResource.cache
+C:\Users\gdba5\OneDrive\桌面\ex_LoadImage\obj\Debug\net6.0-windows\ex_LoadImage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdba5\OneDrive\桌面\ex_LoadImage\obj\Debug\net6.0-windows\ex_LoadImage.AssemblyInfoInputs.cache
+C:\Users\gdba5\OneDrive\桌面\ex_LoadImage\obj\Debug\net6.0-windows\ex_LoadImage.AssemblyInfo.cs
+C:\Users\gdba5\OneDrive\桌面\ex_LoadImage\obj\Debug\net6.0-windows\ex_LoadImage.csproj.CoreCompileInputs.cache
+C:\Users\gdba5\OneDrive\桌面\ex_LoadImage\obj\Debug\net6.0-windows\ex_LoadImage.dll
+C:\Users\gdba5\OneDrive\桌面\ex_LoadImage\obj\Debug\net6.0-windows\refint\ex_LoadImage.dll
+C:\Users\gdba5\OneDrive\桌面\ex_LoadImage\obj\Debug\net6.0-windows\ex_LoadImage.pdb
+C:\Users\gdba5\OneDrive\桌面\ex_LoadImage\obj\Debug\net6.0-windows\ex_LoadImage.genruntimeconfig.cache
+C:\Users\gdba5\OneDrive\桌面\ex_LoadImage\obj\Debug\net6.0-windows\ref\ex_LoadImage.dll
